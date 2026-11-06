@@ -1,6 +1,4 @@
 # first section of scripts are given
-#cd git/newproject
-#git switch -c assignment_shell
 if [ -d newproject ]; then
   echo "Recreating the newproject directory"
   rm -rf newproject
